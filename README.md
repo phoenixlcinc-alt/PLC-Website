@@ -2,6 +2,8 @@
 
 This is the website for Phoenix LC Inc.
 
+🚀 **Successfully deployed to Vercel!**
+
 ## Development
 
 To get started with development:
