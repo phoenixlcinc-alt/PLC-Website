@@ -51,7 +51,7 @@ body {
 /* Header */
 .header {
     background-color: var(--white);
-    padding: 20px 0;
+    padding: 16px 0;
     border-bottom: 1px solid var(--border-light);
 }
 
