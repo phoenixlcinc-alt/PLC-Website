@@ -51,7 +51,7 @@ body {
 /* Header */
 .header {
     background-color: var(--white);
-    padding: 16px 0;
+    padding: 20px 0;
     border-bottom: 1px solid var(--border-light);
 }
 
@@ -69,13 +69,13 @@ body {
 }
 
 .logo-img {
-    width: 85px;
-    height: 114px;
+    width: 340px;
+    height: 456px;
     object-fit: contain;
 }
 
 .logo-text {
-    font-size: 24px;
+    font-size: 32px;
     font-weight: 700;
     color: var(--text-dark);
 }
@@ -717,6 +717,15 @@ body {
         gap: 20px;
     }
     
+    .logo-img {
+        width: 170px;
+        height: 228px;
+    }
+    
+    .logo-text {
+        font-size: 24px;
+    }
+    
     .nav-list {
         gap: 30px;
     }
@@ -776,6 +785,15 @@ body {
 @media (max-width: 480px) {
     .container {
         padding: 0 20px;
+    }
+    
+    .logo-img {
+        width: 120px;
+        height: 160px;
+    }
+    
+    .logo-text {
+        font-size: 20px;
     }
     
     .hero-title {
