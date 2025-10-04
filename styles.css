@@ -69,13 +69,13 @@ body {
 }
 
 .logo-img {
-    width: 340px;
-    height: 456px;
+    width: 85px;
+    height: 114px;
     object-fit: contain;
 }
 
 .logo-text {
-    font-size: 32px;
+    font-size: 24px;
     font-weight: 700;
     color: var(--text-dark);
 }
@@ -717,15 +717,6 @@ body {
         gap: 20px;
     }
     
-    .logo-img {
-        width: 170px;
-        height: 228px;
-    }
-    
-    .logo-text {
-        font-size: 24px;
-    }
-    
     .nav-list {
         gap: 30px;
     }
@@ -785,15 +776,6 @@ body {
 @media (max-width: 480px) {
     .container {
         padding: 0 20px;
-    }
-    
-    .logo-img {
-        width: 120px;
-        height: 160px;
-    }
-    
-    .logo-text {
-        font-size: 20px;
     }
     
     .hero-title {
