@@ -1,5 +1,5 @@
 # Product Requirements Document (PRD)
-## Jacksonville Beaches Lawn Care Website
+## Phoenix Lawn Care Website
 
 ### **Document Version:** 1.0  
 **Date:** December 2024  
@@ -10,14 +10,14 @@
 ## **1. Executive Summary**
 
 ### **Project Overview**
-Development of a modern, scalable website for a professional lawn care service targeting affluent homeowners in the Jacksonville Beaches area. The website will serve as a lead generation and conversion platform, optimized for the target demographic "Meticulous Martha" - homeowners aged 40+ who value reliability, quality service, and peace of mind over low pricing.
+Development of a modern, scalable website for Phoenix Lawn Care, a professional lawn care service targeting affluent homeowners in the Jacksonville area. The website will serve as a lead generation and conversion platform, optimized for the target demographic "Meticulous Martha" - homeowners aged 40+ who value reliability, quality service, and peace of mind over low pricing.
 
 ### **Business Objectives**
 - Generate qualified leads through professional web presence
 - Establish credibility and trust with affluent target market
 - Provide seamless customer experience for service inquiries
 - Support business growth through scalable content management
-- Optimize for local SEO to capture Jacksonville Beaches market
+- Optimize for local SEO to capture Jacksonville market
 
 ### **Success Metrics**
 - Lead conversion rate from website visits
@@ -32,7 +32,7 @@ Development of a modern, scalable website for a professional lawn care service t
 
 ### **Primary Target: "Meticulous Martha"**
 **Demographics:**
-- Homeowners in Jacksonville Beaches zip codes: 32224, 32225, 32246, 32250, 32233
+- Homeowners in Jacksonville area, specifically serving Duval County
 - Age: 40+ (significant portion 55+ including retirees)
 - Median household income: $115,825; Average: $163,128
 - Median property value: $523,600
@@ -73,9 +73,11 @@ Development of a modern, scalable website for a professional lawn care service t
    - Spring Cleanup Services
 
 ### **Service Area**
-- Primary: Jacksonville Beaches Area
-- Zip Codes: 32224, 32225, 32246, 32250, 32233
-- Focus on neighborhoods and landmarks within these areas
+- Primary: Jacksonville, FL area
+- Location: 12377 Wynnfield Lakes Dr #212, Jacksonville FL 32246
+- County: Duval County
+- Coordinates: 30.3248° N latitude, -81.5508° W longitude
+- Focus on neighborhoods and landmarks within the Jacksonville area
 
 ---
 
@@ -253,7 +255,8 @@ Development of a modern, scalable website for a professional lawn care service t
 ### **Key Metrics to Track**
 - **Search Performance:**
   - "Jacksonville lawn care" keyword rankings
-  - "Jacksonville beaches lawn care" keyword rankings
+  - "Phoenix Lawn Care Jacksonville" keyword rankings
+  - "lawn care Jacksonville FL" keyword rankings
   - Local search visibility
   - Click-through rates (CTR)
 
@@ -279,7 +282,9 @@ Development of a modern, scalable website for a professional lawn care service t
 
 ### **Primary Keywords**
 - "Jacksonville lawn care"
-- "Jacksonville beaches lawn care"
+- "Phoenix Lawn Care Jacksonville"
+- "lawn care Jacksonville FL"
+- "Duval County lawn care"
 - Local neighborhood variations
 
 ### **Content Themes**
@@ -380,10 +385,12 @@ Development of a modern, scalable website for a professional lawn care service t
 
 ### **Trust Signals**
 - Licensed and insured badges
-- "2 years in business" messaging
+- "Established in 2024" messaging
 - Professional photography
 - Clear contact information
 - Service area confirmation
+- Website: www.PhoenixLCjax.com
+- Phone: 904-294-4134
 
 ---
 
@@ -472,12 +479,14 @@ Development of a modern, scalable website for a professional lawn care service t
 ## **16. Next Steps**
 
 ### **Immediate Actions**
-1. Finalize business information and contact details
-2. Gather professional photography
-3. Provide Figma design files and logo for color scheme extraction
-4. Set up GitHub repository and Vercel deployment
-5. Configure domain and DNS settings
-6. Begin Phase 1 development
+1. ✅ Business information finalized: Phoenix Lawn Care, 12377 Wynnfield Lakes Dr #212, Jacksonville FL 32246
+2. ✅ Contact details confirmed: www.PhoenixLCjax.com, 904-294-4134
+3. ✅ Business established: 2024
+4. Gather professional photography
+5. Provide Figma design files and logo for color scheme extraction
+6. Set up GitHub repository and Vercel deployment
+7. Configure domain and DNS settings
+8. Begin Phase 1 development
 
 ### **Development Process**
 1. **Repository Setup**
@@ -508,7 +517,7 @@ Development of a modern, scalable website for a professional lawn care service t
 ---
 
 **Document prepared by:** AI Assistant  
-**For:** Jacksonville Beaches Lawn Care Business (Solo Project)  
+**For:** Phoenix Lawn Care Business (Solo Project)  
 **Development Team:** Business Owner + AI Assistant Collaboration  
 **Date:** December 2024  
 **Status:** Ready for Development
